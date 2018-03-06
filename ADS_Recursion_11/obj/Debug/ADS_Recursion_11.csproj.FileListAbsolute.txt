@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\edvinassniuolis\projects\dotNet\vs2017\ADS_Recursion_11\ADS_Recursion_11\bin\Debug\ADS_Recursion_11.exe.config
+C:\Users\DELL\Documents\edvinassniuolis\projects\dotNet\vs2017\ADS_Recursion_11\ADS_Recursion_11\bin\Debug\ADS_Recursion_11.exe
+C:\Users\DELL\Documents\edvinassniuolis\projects\dotNet\vs2017\ADS_Recursion_11\ADS_Recursion_11\bin\Debug\ADS_Recursion_11.pdb
+C:\Users\DELL\Documents\edvinassniuolis\projects\dotNet\vs2017\ADS_Recursion_11\ADS_Recursion_11\obj\Debug\ADS_Recursion_11.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\edvinassniuolis\projects\dotNet\vs2017\ADS_Recursion_11\ADS_Recursion_11\obj\Debug\ADS_Recursion_11.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\edvinassniuolis\projects\dotNet\vs2017\ADS_Recursion_11\ADS_Recursion_11\obj\Debug\ADS_Recursion_11.exe
+C:\Users\DELL\Documents\edvinassniuolis\projects\dotNet\vs2017\ADS_Recursion_11\ADS_Recursion_11\obj\Debug\ADS_Recursion_11.pdb
